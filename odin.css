@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'Norse-Bold';
+    src: url(fonts/Norse-Bold.otf);
+}
+img{
+    position: fixed;
+    top: 0%;
+    left: -18%;
+    bottom: 0%;
+    width: 1000px;
+    height: 730px;
+    object-fit:scale-down;
+    object-position:6.5cm;
+
+}
+
+
+
+
+.introduction{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    top: 70px;
+    right: 300px;
+    left: 550px;
+    font-size: 22px;
+    background-color: aliceblue;
+    background-position:top 0px;
+   
+
+}
+
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form{
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    
+}
+h4{
+    position: absolute;
+    left: 550px;
+    top: 280px;
+    font-size: 22px;
+}
+
+.flexname {
+    position: absolute;
+    left: 550px;
+    top: 360px;
+}
+
+.flexlast {
+    position: absolute;
+    left: 760px;
+    top: 360px;
+
+}
+
+.flexemail{
+    position: absolute;
+    left: 550px;
+    top: 420px;
+}
+
+.flexphone {
+    position: absolute;
+    left: 760px;
+    top: 420px;
+}
+
+.flexpassword {
+    position: absolute;
+    left: 550px;
+    top:480px
+}
+
+.flexconfirm {
+    position: absolute;
+    left: 760px;
+    top:480px
+}
+
+
+.flexcreate {
+    position: absolute;
+    left: 550px;
+    top:560px;
+    border-radius: 10px;
+
+}
+
+input[type=submit] {  background-color: #13631d;
+    font-size: 14px;
+    border: none;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    padding: 10px 42px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-right: 12px;
+
+}
+
+h5{
+    position: absolute;
+    left: 550px;
+    top: 620px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+color{
+    color: #13631d;
+}
+
+h6{
+    position: absolute;
+    top: 675px;
+    color: white;
+    left: 140px;
+    font-size: 10px;
+    opacity: 0.8;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.pork{
+    position: absolute;
+    color:white;
+    font-family: 'Norse-Bold', sans-serif;
+    font-size: 90px;
+    padding: 14px 159px;
+    left:0px;
+    top: 180px;
+    background: rgba(0, 0, 0, 0.5);
+
+}
+
+img.one{
+    position: absolute;
+    top:10px;
+    width: 90%;
+    height: 90%;
+    left: -180px;
+
+}
+
